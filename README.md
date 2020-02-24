@@ -13,5 +13,5 @@ Basics of a countdown timer are :
 
 # Screenshots 
   
- ![Alt text](/images/Screenshot.png?raw=true)
+ ![Alt text](/Screenshot.png?raw=true)
   sing-JavaScript
